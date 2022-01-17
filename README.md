@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
-<p align="center">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Renata Araújo</h1></img>
-</p>
+
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
   
 # Linguagens e Tecnologias
-  <p align="center">
+  <p align="left">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
    </a>
@@ -26,14 +25,14 @@
 </p>
   
 # Ferramentas
-  <p align="center">
+  <p align="left">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
   </p>
   
 # Atividade
-<p align="center">
+<p align="left">
   <a href="https://github.com/renatak12">
     <img
       align="center"
@@ -61,7 +60,7 @@
 </p>
 
 
-<h3 align="center">Contato</h3>
+<h3 align="left">Contato</h3>
 
 <p align="center">
   <a href="https://instagram.com/renatakaraujo_">
