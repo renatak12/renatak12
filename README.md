@@ -80,5 +80,5 @@
          src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
   </a>
 </p>
-<h2 align="center">@renatak12</h2>
+<h5 align="center">@renatak12</h5>
 </details>
