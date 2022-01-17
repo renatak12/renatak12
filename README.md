@@ -4,7 +4,7 @@
 <details>
 <summary>Mais...</summary>
   
-Linguagens e Tecnologias
+# Linguagens e Tecnologias
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -25,8 +25,9 @@ Linguagens e Tecnologias
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
 </p>
+# Ferramentas
 
-Atividade
+3 Atividade
 <p align="center">
   <a href="https://github.com/renatak12">
     <img
