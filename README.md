@@ -1,3 +1,4 @@
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Renata Araújo</h1></img>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
   <p align="center">
@@ -24,7 +25,6 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Renata Araújo</h1></img>
 
 <p align="center">
   <a href="https://github.com/renatak12">
