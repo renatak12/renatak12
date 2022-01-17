@@ -1,5 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Renata Araújo</h1></img>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h4 align="center">
+<details>
+<summary>Mais...</summary>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -21,10 +24,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
 </p>
-
-<h4 align="center">
-<details>
-<summary>Mais...</summary>
 
 <p align="center">
   <a href="https://github.com/renatak12">
