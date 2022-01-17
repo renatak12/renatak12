@@ -5,7 +5,7 @@
 <details>
 <summary>Mais...</summary>
   
-# Linguagens e Tecnologias
+<h3 align="left">Linguagens e Tecnologias</h3> 
   <p align="left">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
@@ -24,15 +24,15 @@
    </a>
 </p>
   
-# Ferramentas
-  <p align="left">
+<h3 align="left">Ferramentas</h3>
+  <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
   </p>
   
-# Atividade
-<p align="left">
+<h3 align="left">Atividade</h3>
+<p align="center">
   <a href="https://github.com/renatak12">
     <img
       align="center"
