@@ -4,7 +4,7 @@
 <details>
 <summary>Mais...</summary>
   
-
+Linguagens e Tecnologias
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -26,6 +26,7 @@
    </a>
 </p>
 
+Atividade
 <p align="center">
   <a href="https://github.com/renatak12">
     <img
@@ -43,7 +44,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/renatak12">
     <img
@@ -55,7 +55,7 @@
 </p>
 
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">Contato</h3>
 
 <p align="center">
   <a href="https://instagram.com/renatakaraujo_">
