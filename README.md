@@ -30,6 +30,9 @@
    <a href="https://www.mysql.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/>
    </a>   
+   <a href="https://www.postgresql.org/">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+   </a>
 </p>
   
 <h2 align="left">Ferramentas</h2>
