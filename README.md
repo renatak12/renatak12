@@ -33,6 +33,12 @@
    <a href="https://www.postgresql.org/">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
    </a>
+    <a href="https://nextjs.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+   </a>
+      <a href="https://www.djangoproject.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="nextjs" width="40" height="40"/>
+   </a>
 </p>
   
 <h2 align="left">Ferramentas</h2>
@@ -51,12 +57,6 @@
    </a>
    <a href="https://canva.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-   </a>
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="https://nextjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
    </a>
   </p>
   
