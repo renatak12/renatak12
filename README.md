@@ -58,6 +58,9 @@
    <a href="https://canva.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
    </a>
+    <a href="https://figma.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="canva" width="40" height="40"/>
+   </a>
   </p>
   
 <h2 align="left">Atividade</h2>
